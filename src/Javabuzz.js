@@ -28,6 +28,7 @@ Javabuzz.prototype.says = function(number){
   if(this.isDivisibleByThree(number)) {
     return "Java";
     };
+    return(number);
 };
 
 
